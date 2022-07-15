@@ -1,3 +1,7 @@
+Team: Mylah Kate Gainey; Colin Anderson; Lauren Della Russo
+
+
+
 ## Lahman Baseball Database Exercise
 - this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
